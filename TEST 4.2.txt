@@ -23,3 +23,13 @@ int main()
  
     return 0;
 }
+1.Array of elements = {-26, 28, 37, -26, 33, -31, -29}
+Number of negative numbers in Array elements = 4
+2.Array of elements = {1.6, 1.8, 2.7, -1.6, 2.3, -2.1, .19}
+Number of negative numbers in Array elements = 2
+3.Array of elements = {0, 160, 180, 270, 160, 230, 210, 190, 0}
+Number of negative numbers in Array elements = 0
+4. Array of elements = {-16, 2.8, -7, -1.5, 2.8, -2.8, -.19}
+Number of negative numbers in Array elements = 4
+5.Array of elements = {-160, -160, -180, -270, -160, -230, -210, 1-90, 0}
+Number of negative numbers in Array elements = 8
